@@ -8,13 +8,14 @@
         body {
             color: #EFEFEF;
             background: #373F51;
+            height: 1vh;
         }
       
       .header {
         width: 100%;
         display: block;
         font-size: 25pt;
-        margin-top: 15%;
+        margin-top: 20%;
         text-align: center;
         font-family: Arial, helvetica, sans-serif;
       }
