@@ -9,6 +9,30 @@
             color: #EFEFEF;
             background: #373F51;
         }
+      
+      .header {
+        width: 100%;
+        display: block;
+        font-size: 25pt;
+        margin-top: 10%;
+        text-align: center;
+        font-family: Arial, helvetica, sans-serif;
+      }
+      
+      .links {
+        width: 100%;
+        color: #FFF;
+        display: block;
+        font-size: 15pt;
+        margin-top: 25px;
+        text-align: center;
+        font-family: Arial, helvetica, sans-serif;
+      }
+      
+      .links a{
+        color: #FFF;
+        font-weight: 300;
+      }
     </style>
 
     <title>sdcore :3</title>
@@ -21,6 +45,7 @@
 
 </head>
 <body>
-    hello 🍞
+  <span class="header">sdcore 🍞</span>
+  <span class="links"><a href="https://github.com/sdcore">github</a> &middot; <a href="https://bsky.app/profile/sdcore.dev">bluesky</a></span>
 </body>
 </html>
