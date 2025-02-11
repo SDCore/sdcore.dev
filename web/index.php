@@ -35,7 +35,7 @@
       }
     </style>
 
-    <title>sdcore :3</title>
+    <title>sdcore 🍞</title>
     <meta content="🍞 legends" property="og:title" />
     <meta content="Me when I forget to write a website description" property="og:description" />
     <meta content="https://sdcore.dev/" property="og:url" />
@@ -45,7 +45,7 @@
 
 </head>
 <body>
-  <span class="header">sdcore 🍞</span>
+  <span class="header">sdcore</span>
   <span class="links"><a href="https://github.com/sdcore" target="_blank">github</a> &middot; <a href="https://bsky.app/profile/sdcore.dev" target="_blank">bluesky</a></span>
 </body>
 </html>
