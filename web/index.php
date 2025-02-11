@@ -14,7 +14,7 @@
         width: 100%;
         display: block;
         font-size: 25pt;
-        margin-top: 10%;
+        margin-top: 15%;
         text-align: center;
         font-family: Arial, helvetica, sans-serif;
       }
@@ -46,6 +46,6 @@
 </head>
 <body>
   <span class="header">sdcore 🍞</span>
-  <span class="links"><a href="https://github.com/sdcore">github</a> &middot; <a href="https://bsky.app/profile/sdcore.dev">bluesky</a></span>
+  <span class="links"><a href="https://github.com/sdcore" target="_blank">github</a> &middot; <a href="https://bsky.app/profile/sdcore.dev" target="_blank">bluesky</a></span>
 </body>
 </html>
