@@ -38,7 +38,7 @@
 
     <title>sdcore 🍞</title>
     <meta content="🍞 legends" property="og:title" />
-    <meta content="Me when I forget to write a website description" property="og:description" />
+    <meta content="me when sdcore does not share his rare very precious 5 cheese garlic texas toast" property="og:description" />
     <meta content="https://sdcore.dev/" property="og:url" />
     <!-- <meta content="#F5AA0A" data-react-helmet="true" name="theme-color" /> -->
     <meta content="https://sdcore.dev/blogurt3.png" property="og:image" />
